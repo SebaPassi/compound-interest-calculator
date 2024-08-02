@@ -4,9 +4,9 @@ The Compound Interest Calculator is a Python project that allows people to calcu
 
 ## Why?
 
-The high inflation present in nowadays affect the value of our money, so it is important that we try to overpass that devaluation and hopefully have profit while doing it. Speaking with a lot of friends I realized that most of them doesn't invest. Actually, a lot of them have their savings "static" in their bank account.
+The high inflation present nowadays affects the value of our money, so it is important to try to overcome that devaluation and hopefully make a profit while doing it. After speaking with a lot of friends, I realized that most of them don't invest. In fact, many of them keep their savings "static" in their bank accounts.
 
-With this program my objetive is to transmit the power of compound interest in people's money and how it is a simple and easy way of increasing patrimony (while avoiding the damage caused by inflation).
+With this program my objetive is to demonstrate the power of compound interest in growing people's money. It is a simple and effective way to increase wealth while mitigating the effects of inflation.
 
 ## What did I learn?
 
