@@ -25,4 +25,5 @@ if __name__ == '__main__':
     calculator_logic.signal_inputs_validity.connect(main_window.error_in_inputs)
     calculator_logic.signal_result.connect(main_window.show_result)
 
+    # Execution
     sys.exit(app.exec())
